@@ -21,7 +21,7 @@ begin
 end
 endmodule
 
-module task1b(A, B, C, Q);
+module task1b(A, B, C, Q);         // in Dataflow
 
   input A, B, C;
   output Q;
